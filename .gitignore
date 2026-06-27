@@ -1,0 +1,3 @@
+data/candidates.jsonl
+data/*.jsonl
+data/*.jsonl.gz
