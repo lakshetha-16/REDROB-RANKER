@@ -39,3 +39,4 @@ def semantic_rank(candidates):
         })
 
     return results
+   
